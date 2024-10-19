@@ -13,13 +13,13 @@ Navigation tab strip with smooth interaction.
 
 [![Android Arsenal](https://drive.google.com/uc?export=download&id=0BxPO_UeS7wScN3B6NjFmWDVKaVE)](http://android-arsenal.com/details/1/3603)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Android](https://drive.google.com/uc?export=download&id=0BxPO_UeS7wSccEZaclNGN0R5OWc)](https://github.com/DevLight-Mobile-Agency)
+[![Android](https://drive.google.com/uc?export=download&id=0BxPO_UeS7wSccEZaclNGN0R5OWc)](https://github.com/sassnet)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Download](https://drive.google.com/uc?export=download&id=0BxPO_UeS7wScdFUzeWFwUURBME0)](https://bintray.com/gigamole/maven/navigationtabstrip/_latestVersion)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![License](https://drive.google.com/uc?export=download&id=0BxPO_UeS7wScU0tmeFpGMHVWNWs)](https://github.com/DevLight-Mobile-Agency/NavigationTabStrip/blob/master/LICENSE.txt)
+[![License](https://drive.google.com/uc?export=download&id=0BxPO_UeS7wScU0tmeFpGMHVWNWs)](https://github.com/sassnet/NavigationTabStrip/blob/master/LICENSE.txt)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Codacy](https://drive.google.com/uc?export=download&id=0BxPO_UeS7wScSHhmckZyeGJDcXc)](https://www.codacy.com/app/gigamole53/NavigationTabStrip?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DevLight-Mobile-Agency/NavigationTabStrip&amp;utm_campaign=Badge_Grade)
+[![Codacy](https://drive.google.com/uc?export=download&id=0BxPO_UeS7wScSHhmckZyeGJDcXc)](https://www.codacy.com/app/gigamole53/NavigationTabStrip?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sassnet/NavigationTabStrip&amp;utm_campaign=Badge_Grade)
 
 <br/>
 
@@ -27,7 +27,7 @@ Navigation tab strip with smooth interaction.
   <img src ="https://drive.google.com/uc?export=download&id=0BxPO_UeS7wScR3FUNTRvS1BJeEE" alt="Devlight"/>
 </p>
 
-You can check the sample app [here](https://github.com/DevLight-Mobile-Agency/NavigationTabStrip/tree/master/app).
+You can check the sample app [here](https://github.com/sassnet/NavigationTabStrip/tree/master/app).
 
 Warn
 ====
@@ -42,7 +42,7 @@ Thank you for using our libraries.
 Download
 ========
 
-You can download a `.aar` from GitHub's [releases page](https://github.com/DevLight-Mobile-Agency/NavigationTabStrip/releases).
+You can download a `.aar` from GitHub's [releases page](https://github.com/sassnet/NavigationTabStrip/releases).
 
 Or use Gradle jCenter:
 
@@ -54,21 +54,21 @@ dependencies {
             url  'http://dl.bintray.com/gigamole/maven/'
         }
     }
-    implementation 'com.github.devlight.navigationtabstrip:navigationtabstrip:+'
+    implementation 'com.github.sassnet.navigationtabstrip:navigationtabstrip:+'
 }
 ```
 
 Or Gradle Maven Central:
 
 ```groovy
-compile 'com.github.devlight.navigationtabstrip:navigationtabstrip:1.0.4'
+compile 'com.github.sassnet.navigationtabstrip:navigationtabstrip:1.0.4'
 ```
 
 Or Maven:
 
 ```groovy
 <dependency>
-    <groupId>com.github.devlight.navigationtabstrip</groupId>
+    <groupId>com.github.sassnet.navigationtabstrip</groupId>
     <artifactId>navigationtabstrip</artifactId>
     <version>1.0.4</version>
     <type>aar</type>
@@ -182,7 +182,7 @@ And XML init:
 Getting Help
 ============
 
-To report a specific problem or feature request, [open a new issue on Github](https://github.com/DevLight-Mobile-Agency/NavigationTabStrip/issues/new).
+To report a specific problem or feature request, [open a new issue on Github](https://github.com/sassnet/NavigationTabStrip/issues/new).
 
 Xamarin
 =======
@@ -208,7 +208,7 @@ Company
 
 [![Facebook](https://drive.google.com/uc?export=download&id=0BxPO_UeS7wScaGhGVFNKU0VxMnc)](https://www.facebook.com/devlightagency)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Twitter](https://drive.google.com/uc?export=download&id=0BxPO_UeS7wScZ1ExQWh5cHF5cVE)](https://twitter.com/DevLightIO)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://drive.google.com/uc?export=download&id=0BxPO_UeS7wSccGZINzEycE1nVFE)](https://www.linkedin.com/company/devlight)
 
-[Here](https://github.com/DevLight-Mobile-Agency) you can see open source work developed by Devlight LLC.  
+[Here](https://github.com/sassnet) you can see open source work developed by Devlight LLC.  
 This and another works is an exclusive property of Devlight LLC. 
 
 If you want to use this library in applications which will be available on Google Play, please report us about it or author of the library.
