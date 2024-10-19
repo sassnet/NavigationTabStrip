@@ -44,9 +44,9 @@ dependencies {
     implementation 'com.android.support:appcompat-v7:27.1.1'
 }
 
-def siteUrl = 'https://github.com/DevLight-Mobile-Agency/NavigationTabStrip'
-def gitUrl = 'https://github.com/DevLight-Mobile-Agency/NavigationTabStrip.git'
-group = "com.github.devlight.navigationtabstrip"
+def siteUrl = 'https://github.com/sassnet/NavigationTabStrip'
+def gitUrl = 'https://github.com/sassnet/NavigationTabStrip.git'
+group = "com.github.sassnet.navigationtabstrip"
 
 install {
     repositories.mavenInstaller {
